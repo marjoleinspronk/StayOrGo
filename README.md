@@ -77,6 +77,11 @@ The models were able to make a reasonably good (but not exellent) prediction abo
 Although the accuracy of the models (and precision and recall) were more or less similar for the 3 models (around 79%, with precision and recall around 0.78 and 0.79 respectively), the features that were marked as important differed somewhat. 
 However, all models suggest that **Contract Type** and **Internet Service** are good predictors of churning, and two models indicate that **Monthly Charges** should be taken into account.
 
+<p align="center">
+  <img src="images/DecisionTreeResult.png" width="500" title="DecisionTree vs. LogisticRegression ">
+</p>
+Figure: Decision Tree with Graphviz
+
 
 ### Files in this repository:
 
