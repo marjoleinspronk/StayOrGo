@@ -16,7 +16,7 @@ Note that this means they are related to, but not necessarily causing customers 
 
 
 <p align="center">
-  <img src="images/phones.jpg" width="150">
+  <img src="images/phones.jpg">
 </p>
 
 
@@ -62,7 +62,7 @@ Since the goal here is to classify churn vs. no churn, two types of models were 
 The difference in classification approach (how decision boundaries are generated) is illustrated in the following plot:
 
 <p align="center">
-  <img src="images/LogisticRegression_vs_DecisionTree.png" width="100" title="DecisionTree vs. LogisticRegression ">
+  <img src="images/LogisticRegression_vs_DecisionTree.png" title="DecisionTree vs. LogisticRegression ">
 </p>
 
 In short, decision trees make multiple splits of the data, resulting in smaller and smaller areas (note that only one split is displayed in the figure above), and logistic regression fits one single line between the data points to divide the space in churn vs no churn.  
@@ -78,7 +78,7 @@ Although the accuracy of the models (and precision and recall) were more or less
 However, all models suggest that **Contract Type** and **Internet Service** are good predictors of churning, and two models indicate that **Monthly Charges** should be taken into account.
 
 
-### Files you'll find in this repository are:
+### Files in this repository:
 
 * [StayOrGoPrediction.ipynb]((https://github.com/marjoleinspronk/StayOrGo/StayOrGoPrediction.ipynb)) is a jupyter notebook with the analysis code.
 * [data/WA\_Fn-UseC_-Telco-Customer-Churn.csv]((https://github.com/marjoleinspronk/StayOrGo/data/WA\_Fn-UseC_-Telco-Customer-Churn.csv)) contains the data used in this notebook.
