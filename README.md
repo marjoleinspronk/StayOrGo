@@ -78,7 +78,7 @@ Although the accuracy of the models (and precision and recall) were more or less
 However, all models suggest that **Contract Type** and **Internet Service** are good predictors of churning, and two models indicate that **Monthly Charges** should be taken into account.
 
 <p align="center">
-  <img src="images/DecisionTreeResult.png" width="500" title="DecisionTree vs. LogisticRegression ">
+  <img src="images/DecisionTreeResult.png" width="800" title="DecisionTree vs. LogisticRegression ">
 </p>
 Figure: Decision Tree with Graphviz
 
