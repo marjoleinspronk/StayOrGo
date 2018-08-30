@@ -1,7 +1,7 @@
 ### Summary
 
 This repository contains an analysis of customer churn (also "customer turnover") from the [IBM Watson Analytics sample data sets](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)
-The analysis [Should I stay or should I go?](https://github.com/marjoleinspronk/StayOrGo/StayOrGoPrediction.ipynb) consists of data cleaning, exploratory visualization, feature preparation, 
+The analysis [Should I stay or should I go?](https://github.com/marjoleinspronk/StayOrGo/blob/master/StayOrGoPrediction.ipynb) consists of data cleaning, exploratory visualization, feature preparation, 
 and two types of machine learning models (logistic regression and Decision Tree) to predict customer churn for a telecom company.
 
 ### Introduction
@@ -85,7 +85,7 @@ Figure: Decision Tree with Graphviz
 
 ### Files in this repository:
 
-* [StayOrGoPrediction.ipynb]((https://github.com/marjoleinspronk/StayOrGo/StayOrGoPrediction.ipynb)) is a jupyter notebook with the analysis code.
-* [data/WA\_Fn-UseC_-Telco-Customer-Churn.csv]((https://github.com/marjoleinspronk/StayOrGo/data/WA\_Fn-UseC_-Telco-Customer-Churn.csv)) contains the data used in this notebook.
+* [StayOrGoPrediction.ipynb]((https://github.com/marjoleinspronk/StayOrGo/blob/master/StayOrGoPrediction.ipynb)) is a jupyter notebook with the analysis code.
+* [data/WA\_Fn-UseC_-Telco-Customer-Churn.csv]((https://github.com/marjoleinspronk/StayOrGo/tree/master/data/WA\_Fn-UseC_-Telco-Customer-Churn.csv)) contains the data used in this notebook.
 
 
