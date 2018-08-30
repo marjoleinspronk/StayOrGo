@@ -80,7 +80,7 @@ However, all models suggest that **Contract Type** and **Internet Service** are 
 <p align="center">
   <img src="images/DecisionTreeResult.png" width="800" title="DecisionTree vs. LogisticRegression ">
 </p>
-Figure: Decision Tree with Graphviz
+*Figure: Decision Tree with Graphviz*
 
 
 ### Files in this repository:
