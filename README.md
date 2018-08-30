@@ -62,7 +62,7 @@ Since the goal here is to classify churn vs. no churn, two types of models were 
 The difference in classification approach (how decision boundaries are generated) is illustrated in the following plot:
 
 <p align="center">
-  <img src="images/LogisticRegression_vs_DecisionTree.png" title="DecisionTree vs. LogisticRegression ">
+  <img src="images/LogisticRegression_vs_DecisionTree.png" width="500" title="DecisionTree vs. LogisticRegression ">
 </p>
 
 In short, decision trees make multiple splits of the data, resulting in smaller and smaller areas (note that only one split is displayed in the figure above), and logistic regression fits one single line between the data points to divide the space in churn vs no churn.  
